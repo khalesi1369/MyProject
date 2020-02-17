@@ -15,4 +15,5 @@ class Person:
 if __name__ == "__main__":
 
     person1 = Person('alireza')
+    person1.intro()
     print(person1)
